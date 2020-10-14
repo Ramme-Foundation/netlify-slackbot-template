@@ -18,7 +18,7 @@
   },
   "devDependencies": {
     "@babel/preset-typescript": "7.10.4",
-    "@types/aws-lambda": "8.10.62",
+    "@types/aws-lambda": "8.10.64",
     "@types/node": "13.9.2"
   }
 }
